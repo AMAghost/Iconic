@@ -136,7 +136,7 @@ const filteredProducts = store.filter(product => {
                                     <div className="error">
                                 
                                     <h1 className="error_text">УПС, МЫ НЕ НАШЛИ ДАННУЮ МОДЕЛЬ</h1>
-                                    <img src={error} alt="error" className="error_img"/>
+                                    
                                     </div>
                                 )
                             }
